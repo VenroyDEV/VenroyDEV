@@ -8,6 +8,6 @@
 ➲ Reverse Engineering</br>
 ➲ Networks & Protocols</br>
 ➲ Scraping</br>
-➲ (with @delivey) Video editing Algorithm, which I am working on with @delivey </br>
+➲ Video editing Algorithm, which I am working on with @delivey </br>
 
 👯 Studying, C++ & Python.</br>
