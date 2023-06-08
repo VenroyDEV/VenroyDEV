@@ -1,10 +1,13 @@
 <h1> venroy (vnɹɔɪ) </h1>
-<p> test /p>
-🌱 I just started coding in January 2023.
-🔭 I’m currently working on:
-➲ ScrapingBot.
-➲ Databases.
-➲ Auto-Contributors.
-➲ (with @delivey) Algorithm editing Fortnite Content automatically in 9:16 format.
 
-👯 I’m looking to collaborate on "Utility Clients" for MC in the Anarchy Server Community in the future.
+🌱 Coding since January 2023.　</br>
+
+🔭 My Interests are:</br>
+
+➲ Cyber Security</br>
+➲ Reverse Engineering</br>
+➲ Scraping Bot</br>
+➲ Networks & Protocols</br>
+➲ (with @delivey) Video editing Algorithm, which I am working on with @delivey </br>
+
+👯 Studying, C++ & Python.</br>
