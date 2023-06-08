@@ -6,8 +6,8 @@
 
 ➲ Cyber Security</br>
 ➲ Reverse Engineering</br>
-➲ Scraping Bot</br>
 ➲ Networks & Protocols</br>
+➲ Scraping</br>
 ➲ (with @delivey) Video editing Algorithm, which I am working on with @delivey </br>
 
 👯 Studying, C++ & Python.</br>
