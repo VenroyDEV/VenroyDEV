@@ -1,8 +1,7 @@
-<h1> venroy (vnɹɔɪ) </h1>
+<h1> venroy <a href https://venroy.top /a> (vnɹɔɪ) </h1>
 
-🌱 Coding since January 2023.　</br>
 
-🔭 My Interests are:</br>
+## 🔭 My Interests are:</br>
 
 ➲ Cyber Security</br>
 ➲ Reverse Engineering</br>
@@ -11,3 +10,5 @@
 ➲ Video editing Algorithm, which I am working on with @delivey </br>
 
 👯 Studying, C++ & Python.</br>
+
+## 🌱 I'm currently learning
