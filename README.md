@@ -8,7 +8,7 @@
 - Reverse Engineering</br>
 - Networks & Protocols</br>
 - Scraping</br>
-- Video editing Algorithm, which I am working on with @delivey </br>
+- Video editing Algorithm [@delivey](https://github.com/delivey)
 
 
 ## 🌱 I'm currently studying
