@@ -15,3 +15,6 @@
 - ⚡ C++.
 - 🐌 Python.</br>
 
+## 📧 Want to reach out to me?
+all of my <b> Contact Info </b> is on my website but here is my e-mail:  </br>
+-> venroy@420blaze.it (actual email)
