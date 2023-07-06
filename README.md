@@ -1,5 +1,5 @@
 <h1><a href https://venroy.top /a>  venroy (vnɹɔɪ) </h1>
-  ![alt text](https://github.com/VenroyDEV/pers/blob/main/banner.jpg?raw=true)
+  ![alt text](banner.jpg)
 
 ## 🔭 My Interests are:</br>
 
