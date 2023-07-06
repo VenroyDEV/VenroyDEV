@@ -1,5 +1,6 @@
 <h1><a href https://venroy.top /a>  venroy (vnɹɔɪ) </h1>
-  ![banner](https://github.com/VenroyDEV/VenroyDEV/assets/64047882/511d3499-ee02-4605-b1d9-59cf9ec2a17c)
+
+![small](https://github.com/VenroyDEV/VenroyDEV/assets/64047882/511d3499-ee02-4605-b1d9-59cf9ec2a17c)
 
 
 ## 🔭 My Interests are:</br>
