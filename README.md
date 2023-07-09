@@ -8,9 +8,9 @@
 - Cyber Security</br>
 - OPSEC/OSINT 
 - Reverse Engineering</br>
-- Networks & Protocols</br>
-- Scraping</br>
+- Coding</br>
 - Video editing Algorithm (working with [@delivey](https://github.com/delivey))
+- Networks & Protocols</br>
 
 
 ## 🌱 I'm currently studying
