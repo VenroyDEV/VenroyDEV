@@ -15,6 +15,7 @@
 
 ## 🌱 I'm currently studying
 - ⚡ C++.
+- ☕ Java. 
 - 🐌 Python.</br>
 
 ## 📧 Want to reach out to me?
