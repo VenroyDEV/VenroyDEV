@@ -3,21 +3,26 @@
 ![small](https://github.com/VenroyDEV/VenroyDEV/assets/64047882/511d3499-ee02-4605-b1d9-59cf9ec2a17c)
 
 
-## 🔭 My Interests are:</br>
+<pre>    
+    >  venroy@wiiu:~$ cat about_me.txt
 
-- Cyber Security</br>
-- OPSEC/OSINT 
-- Reverse Engineering</br>
-- Coding</br>
-- Video editing Algorithm (working with [@delivey](https://github.com/delivey))
-- Networks & Protocols</br>
+   [+] Cyber Security 
+   [+] OPSEC/OSINT
+   [+] Coding 
+
+   currently learning: 
+    ⚡ C++.
+    ☕ Java. 
+    🐌 Python.
+</pre>
 
 
-## 🌱 I'm currently studying
-- ⚡ C++.
-- ☕ Java. 
-- 🐌 Python.</br>
+<pre>
+    >  venroy@wiiu:~$ cat shill.txt
+  
+    📧 Want to reach out to me?
+  All of my cotacts are on my <a href="venroy.top"> website </a>
 
-## 📧 Want to reach out to me?
-all of my <b> Contact Info </b> is on my website but here is my e-mail:  </br>
--> venroy@420blaze.it (actual email)
+  general inquries can be send over venroy@420blaze.it
+  
+</pre>
