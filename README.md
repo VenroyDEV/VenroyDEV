@@ -21,7 +21,8 @@
     >  venroy@wiiu:~$ cat shill.txt
   
     📧 Want to reach out to me?
-  All of my cotacts are on my <a href="venroy.top"> website </a>
+  All of my contacts are on my [website](https://venroy.top) website </a>
+  [test](#https://venroy.top)
 
   general inquries can be send over venroy@420blaze.it
   
