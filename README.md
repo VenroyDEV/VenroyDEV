@@ -1,6 +1,7 @@
 <h1><a href https://venroy.top /a>  venroy (vnɹɔɪ) </h1>
 
-![small](https://github.com/VenroyDEV/VenroyDEV/assets/64047882/511d3499-ee02-4605-b1d9-59cf9ec2a17c)
+![Venroy](https://github.com/VenroyDEV/VenroyDEV/assets/64047882/130151bb-a652-42cc-9b41-e2ad67c04873)
+
 
 
 <pre>    
