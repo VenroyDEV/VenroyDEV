@@ -22,7 +22,7 @@
     >  venroy@wiiu:~$ cat shill.txt
   
     📧 Want to reach out to me?
-  All of my contacts are on my webite -> venroy.top 
+  All of my contacts are on my webite -> venroy.moe
 
   general inquries can be send over venroy@420blaze.it
   
